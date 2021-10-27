@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @momosahi
 - 👀 I’m interested in mathematics and computer science
-- 🌱 I’m currently learning data science, python and SQL
+- 🌱 I’m currently learning data science, python, Java, C++ and SQL
 - 💞️ I’m looking to collaborate on every open source project
 - 📫 you can reach me at sahi.gonsangbeu@etu.unice.fr
 
