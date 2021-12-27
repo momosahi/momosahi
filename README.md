@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics and data science
 - 🌱 I’m currently learning python, Java, C++ and SQL
 - 💞️ I’m looking to collaborate on every open source project
-- 📫 you can reach me at sahi.gonsangbeu@etu.unice.fr
+- 📫 you can reach me at sahi.gonsangbeu@etu.unice.fr or on twitter at https://twitter.com/sonofkadi
 
 <!---
 momosahi/momosahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
